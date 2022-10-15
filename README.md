@@ -1,5 +1,20 @@
-# SangBum Kim (Puri) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPuri12%2Fhit-counter&count_bg=%238DC07C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+# SangBum Kim (Puri) :whale2: 
 
-I want to be Devops Engineer🔧
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puri12&show_icons=true&theme=gotham)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Puri12&theme=gotham&show_icons=true">]()
+
+🔧 I want to be __Devops__ Engineer
+## Now I'm interested in
+<br>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">
+
+
+## Week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
