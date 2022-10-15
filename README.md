@@ -17,4 +17,9 @@
 
 ## Week
 <!--START_SECTION:waka-->
+
+```text
+Other      51 mins         ████████████████████████░   96.07 %
+```
+
 <!--END_SECTION:waka-->
