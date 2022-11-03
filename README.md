@@ -19,12 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 31 October 2022
+From: 14 October 2022 - To: 01 November 2022
 
-Total Time: 101 hrs 28 mins
+Total Time: 105 hrs 16 mins
 
-Java             53 hrs 2 mins   >>>>>>>>>>>>>------------   52.27 %
-Other            29 hrs 45 mins  >>>>>>>------------------   29.32 %
+Java             55 hrs 57 mins  >>>>>>>>>>>>>------------   53.15 %
+Other            29 hrs 45 mins  >>>>>>>------------------   28.27 %
 ```
 
 <!--END_SECTION:waka-->
