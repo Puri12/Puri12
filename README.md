@@ -34,3 +34,8 @@
 ### OS 💻
 <p>
 <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=Arch Linux&logoColor=white">
+
+
+## WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
