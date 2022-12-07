@@ -17,5 +17,13 @@ jobs:
           COMMIT_BY_ME: true
           COMMIT_USERNAME: Puri12
           COMMIT_EMAIL: tkdqja9812@gmail.com
-          SHOW_LINES_OF_CODE: true
           SHOW_LOC_CHART: false
+          SHOW_UPDATED_DATE: false
+          SHOW_LINES_OF_CODE: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_SHORT_INFO: false
+          
