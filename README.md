@@ -5,6 +5,8 @@
 
 🔧 I want to be __Devops__ Engineer
 
+[🙋 resume](https://github.com/Puri12/resume)
+
   
 ## Stack
   
