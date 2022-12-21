@@ -3,9 +3,14 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Puri12&theme=gotham&show_icons=true">]()
 
-🔧 I want to be __Devops__ Engineer
+#### Dream
+`🔧 I want to be Devops Engineer`
 
+#### Resume
 [🙋 resume](https://github.com/Puri12/resume)
+
+#### Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=28ndovcefg2jalcbatcoh4f8z&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=88ea85&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=28ndovcefg2jalcbatcoh4f8z&redirect=true)
 
   
 ## Stack
@@ -42,6 +47,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
 
 
 ## WakaTime
@@ -98,3 +104,4 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+  
