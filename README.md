@@ -6,6 +6,9 @@
 #### Dream
 `🔧 I want to be Devops Engineer`
 
+#### Blog
+[📚 Blog](https://puri.notion.site/Puri12-s-Blog-2f698ba9ef594b0198d2b3104dd08997)
+
 #### Resume
 [🙋 resume](https://github.com/Puri12/resume)
 
