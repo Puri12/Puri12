@@ -3,8 +3,8 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Puri12&theme=gotham&show_icons=true">]()
 
-#### Dream
-`🔧 I want to be Devops Engineer`
+#### Position
+`🔧 Devops Engineer / Backend Developer`
 
 #### Blog
 [📚 Blog](https://puri.notion.site/Puri12-s-Blog-2f698ba9ef594b0198d2b3104dd08997)
