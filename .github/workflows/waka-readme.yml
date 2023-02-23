@@ -26,4 +26,4 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_EDITORS: false
           SHOW_SHORT_INFO: false
-          
+          SYMBOL_VERSION: 2
