@@ -12,6 +12,14 @@
 #### Resume
 [🙋 resume](https://github.com/Puri12/resume)
 
+
+## AI Usage
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Puri12/svg?sort=cost&compact=1)](https://tokscale.ai/u/Puri12)
+
+</div>
   
 ## Stack
   
