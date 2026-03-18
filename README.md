@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/Puri12/svg?sort=cost&compact=1)](https://tokscale.ai/u/Puri12)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Puri12/svg?compact=1)](https://tokscale.ai/u/Puri12)
 
 </div>
   
