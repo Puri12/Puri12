@@ -1,8 +1,6 @@
 # SangBum Kim (Puri) :whale2: 
 
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Puri12&theme=gotham&show_icons=true">]()
-
 #### Position
 `🔧 Devops Engineer / Backend Developer`
 
